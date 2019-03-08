@@ -1,0 +1,6 @@
+users:
+  name_length: 50
+  email_length: 255
+  password_length: 6
+sessions:
+  checked: "1"

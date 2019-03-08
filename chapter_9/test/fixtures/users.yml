@@ -1,0 +1,4 @@
+lan:
+  name: lanlehoang67
+  email: lanlehoang67@gmail.com
+  password_digest: <%= User.digest("password") %>

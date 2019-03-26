@@ -1,6 +1,0 @@
-frozen_string_literal: true.
-{
-  "name": "sample_app",
-  "private": true,
-  "dependencies": {}
-}

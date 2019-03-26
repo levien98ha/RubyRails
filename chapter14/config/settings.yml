@@ -1,0 +1,20 @@
+users:
+  name_length: 50
+  email_length: 255
+  password_length: 6
+  page_items_count: 30
+  time_expired: 2
+  gra_size: 30
+sessions:
+  checked: "1"
+user_helper:
+  size: 80
+micropost:
+  content_length: 140
+  maximum_size: 5
+  user_count: 50
+gravatar:
+  size: 50
+image:
+  image_type: "image/jpeg,image/gif,image/png"
+
